@@ -41,3 +41,23 @@ You may fork this repo (if you need sample apps) and make it private and give us
 - Use `Grid` and `Flex` in CSS. We love `Grid`
 
 - Setup CD/CI to Deploy your app to AWS S3
+
+- Typescript is a big plus, we encourage you to use it
+
+## Note
+
+We evaluate your
+
+1- Quality of code
+2- Tests
+3- Commits
+4- Documentation
+5- Setup Cleanses
+6- Commands to make it easy to run project
+7- Scalability of your setup
+8- Deployment process
+9- You skill on SEO and UX
+
+Followed by this task, there will be an interview about your tech-setup.
+
+### Good luck and we are impatiently waiting to see you
