@@ -56,7 +56,7 @@ We evaluate your
 6- Commands to make it easy to run project
 7- Scalability of your setup
 8- Deployment process
-9- You skill on SEO and UX
+9- SEO and UX
 
 Followed by this task, there will be an interview about your tech-setup.
 
